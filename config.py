@@ -1,15 +1,13 @@
-api_telegram_bot_token = '8366707641:AAGcDU9N9bF0yfAdaCRkKyszCrKKoArVm7I'
-owners_id = {'Стас' : 6559026404,
-             'Лысый': 1145467325,
-             'Комар': 7911073286}
-
-# /start 
+api_telegram_bot_token = 'BOT API TOKEN'
+owners_id = {'Стас' : 0000000000, # Owners ID's
+             'Лысый': 0000000000, # Owners ID's 
+             'Комар': 0000000000} # Owners ID's 
 
 channel_name = '@LiveNFTGifts'
 
-yookassa_api_key = 'live_j7fLbl4DK9M18WkaxSZDFevF5w6d52W_gw_2wIw4x1k'
-yookassa_shop_id = '1081996'
+yookassa_api_key = 'Yookassa API KEY'
+yookassa_shop_id = 'YooKassa Shop\Account ID'
 
 STARS_COMMISION = 4
 
-DELAY = 5       # в минутах
+DELAY = 5       # in minute
